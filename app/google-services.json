@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "249591699071",
+    "project_id": "notify-aaf96"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249591699071:android:4ef9113073f2310c",
+        "android_client_info": {
+          "package_name": "example.com.bitsnoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249591699071-bdqlhisnum8ru5s53u0ei9j54g5vkrv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "example.com.bitsnoti",
+            "certificate_hash": "c1de3e2ce1bba9efbadf48d9800b31a06296ec35"
+          }
+        },
+        {
+          "client_id": "249591699071-essepia3pu12srubp0tv4j99jblcfm4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcB-d6JzlDrJAuKLSFAAMx24oo4cUzMXg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
